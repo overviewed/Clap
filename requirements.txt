@@ -1,0 +1,5 @@
+colorama
+discord
+pystyle
+colored
+requests
