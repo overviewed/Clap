@@ -7,4 +7,4 @@ Discord Mass Ban/Kick tool created by me
 
 if you skid this shit your mom dont love u
 
-ty to @fedintel for making this an exe for me
+ty to [Avale](https://github.com/fedintel) for making this an exe for me
