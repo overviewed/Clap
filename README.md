@@ -8,4 +8,4 @@ Discord Mass Ban/Kick tool created by me
 
 if you skid this shit your mom dont love u
 
-ty to [Avale](https://github.com/fedding) for making this an exe for me >_<
+ty to [Avale](https://github.com/rqya) for making this an exe for me >_<
